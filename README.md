@@ -1,4 +1,4 @@
-# Email-Spam-Detector
+
 # 📧 Email Spam Detector (Django)
 
 A web-based email spam classification app built using **Django** and **Machine Learning**.
