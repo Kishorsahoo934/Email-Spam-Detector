@@ -10,7 +10,6 @@ A web-based email spam classification app built using **Django** and **Machine L
 - Django-powered web interface
 - Spam or Not Spam prediction
 - ML model using Scikit-learn
-- TF-IDF + Naive Bayes
 - Clean UI for user input
 
 ---
